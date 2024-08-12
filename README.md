@@ -1,1 +1,2 @@
-# nms-virtual-action
+# nms-virtual-action with Python Open cv
+- When click a virtual play button, It plays a song....
