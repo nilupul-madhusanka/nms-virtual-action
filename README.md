@@ -2,10 +2,10 @@
 ## When click a virtual play button, It plays a song....
 
 ```bash
-git clone
+git clone https://github.com/nilupul-madhusanka/nms-virtual-action.git
 ```
 ```bash
-cd 
+cd nms-virtual-action
 ```
 - I recommended to run it on a virtual environment
 ```bash
