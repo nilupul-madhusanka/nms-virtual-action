@@ -1,11 +1,12 @@
 # nms-virtual-action with Python Open cv
 ## When click a virtual play button, It plays a song....
 
+
+- Download the source codes and access it
 ```bash
 git clone https://github.com/nilupul-madhusanka/nms-virtual-action.git
-```
-```bash
 cd nms-virtual-action
+
 ```
 - I recommended to run it on a virtual environment
 ```bash
